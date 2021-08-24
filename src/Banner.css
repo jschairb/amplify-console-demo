@@ -1,0 +1,9 @@
+.Banner {
+  margin: 1em 0em;
+  padding: 1em 0.5em;
+  outline: 10px solid #bb0000;
+  background-color: #666666;
+  color: #ffffff;
+  line-height: 1.25;
+  font-size: 24px;
+}

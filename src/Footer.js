@@ -6,7 +6,7 @@ class Footer extends React.Component {
       <footer className="App-footer">
         an <a href="https://twitter.com/jschairb"
               target="_blank"
-              rel="noopener noreferrer">@<span class="danzig">jschairb</span></a> joint
+              rel="noopener noreferrer"><span className="danzig">@jschairb</span></a> joint
       </footer>
     )
   }

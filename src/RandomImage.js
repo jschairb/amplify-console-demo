@@ -14,7 +14,7 @@ class RandomImage extends React.Component {
   }
   render () {
     return (
-      <p id="logo"><img id="randomImage" src={this.state.items[Math.floor(Math.random()*this.state.items.length)]} /></p>
+      <p id="logo"><img id="randomImage" src={this.state.items[Math.floor(Math.random()*this.state.items.length)]} alt="OSU Victory" /></p>
     )
   };
 }
